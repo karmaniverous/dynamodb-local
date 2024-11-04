@@ -1,5 +1,10 @@
 {
   "entryPoints": ["./src/index.ts"],
+  "externalSymbolLinkMappings": {
+    "@aws-sdk/client-dynamodb": {
+      "DynamoDBClient": "https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/client/dynamodb/"
+    }
+  },
   "highlightLanguages": [
     "bash",
     "console",
@@ -27,5 +32,5 @@
   },
   "searchInComments": true,
   "searchInDocuments": true,
-  "titleLink": "https://github.com/karmaniverous/npm-package-template-ts"
+  "titleLink": "https://github.com/karmaniverous/dynamodb-local"
 }

@@ -1,7 +1,2 @@
-/**
- * This is the main entry point for the library.
- *
- * @packageDocumentation
- */
-
-export { foo, type FooTarget } from './foo';
+export { setupDynamoDbLocal, teardownDynamoDbLocal } from './docker';
+export { dynamoDbLocalReady } from './dynamoDbLocalReady';
