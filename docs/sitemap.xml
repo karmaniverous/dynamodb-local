@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://docs.karmanivero.us/dynamodb-local/modules.html</loc>
+		<lastmod>2024-11-14T02:57:07.436Z</lastmod>
+	</url>
+	<url>
+		<loc>https://docs.karmanivero.us/dynamodb-local/index.html</loc>
+		<lastmod>2024-11-14T02:57:07.436Z</lastmod>
+	</url>
+	<url>
+		<loc>https://docs.karmanivero.us/dynamodb-local/documents/CHANGELOG.html</loc>
+		<lastmod>2024-11-14T02:57:07.436Z</lastmod>
+	</url>
+	<url>
+		<loc>https://docs.karmanivero.us/dynamodb-local/modules/index.html</loc>
+		<lastmod>2024-11-14T02:57:07.436Z</lastmod>
+	</url>
+	<url>
+		<loc>https://docs.karmanivero.us/dynamodb-local/functions/index.dynamoDbLocalReady.html</loc>
+		<lastmod>2024-11-14T02:57:07.436Z</lastmod>
+	</url>
+	<url>
+		<loc>https://docs.karmanivero.us/dynamodb-local/functions/index.setupDynamoDbLocal.html</loc>
+		<lastmod>2024-11-14T02:57:07.436Z</lastmod>
+	</url>
+	<url>
+		<loc>https://docs.karmanivero.us/dynamodb-local/functions/index.teardownDynamoDbLocal.html</loc>
+		<lastmod>2024-11-14T02:57:07.436Z</lastmod>
+	</url>
+</urlset>
